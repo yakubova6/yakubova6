@@ -1,4 +1,4 @@
-# SANIE YAKUBOVA
+# Sanie Yakubova - software engineer
 
 ### About me
 Hi, I’m Sanie.\
