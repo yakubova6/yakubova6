@@ -1,8 +1,7 @@
-- 👋 Hi, I’m Sanie.
-- 👀 I’m interested in website and application development.
-- 🌱 I’m currently learning C++ and Golang.
-- 💞️ I’m looking to collaborate on front-end development.
-- 📫 Reach me by email - sanie07@mail.ru
+Hi, I’m Sanie.
+I’m interested in web development.
+I’m currently learning C++ and Golang.
+Reach me by email - sanie07@mail.ru
 
 ### Contact me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff)](#)
