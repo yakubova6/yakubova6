@@ -1,8 +1,8 @@
-# Sanie Yakubova - software engineer
+# Sanie Yakubova
 
 ### About me
 Hi, I’m Sanie.\
-I’m interested in web development.\
+I’m interested in web development and software engineering.\
 I’m currently learning C++ and Golang.\
 I also practice English and speak it fluently.\
 Reach me by email - sanie07@mail.ru
