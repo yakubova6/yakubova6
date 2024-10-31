@@ -5,7 +5,7 @@
 - 📫 Reach me by email - sanie07@mail.ru
 
 ### Contact me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn%20Learning-0A66C2?logo=linkedin&logoColor=fff)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff)](#)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](#)
 
 ### Languages and tools
