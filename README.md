@@ -1,4 +1,4 @@
-# Sanie Iakubova
+# Sanie Yakubova
 
 ### About me
 Hi, I’m Sanie.\
