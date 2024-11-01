@@ -8,8 +8,14 @@ I also practice English and speak it fluently.\
 Reach me by email - sanie07@mail.ru
 ________________________________________________________________________________________________
 ### Contacts
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff)](#)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](#)
+<div>
+<a href="https://www.linkedin.com/in/sanie-iakubova/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff" alt="LinkedIn"/>
+</a>
+<a href="https://t.me/yakubova6">
+<img src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white" alt="Telegram"/>
+</a>
+</div>
 
 ### Languages and tools
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
