@@ -3,7 +3,7 @@
 ### About me
 Hi, I’m Sanie.\
 I’m interested in web development and software engineering.\
-I’m currently learning C++ and Golang.\
+I’m currently learning JavaScript.\
 I also practice English and speak it fluently.\
 Reach me by email - sanie07@mail.ru
 ________________________________________________________________________________________________
@@ -29,5 +29,5 @@ ________________________________________________________________________________
 <div id="stat" align="center">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yakubova6&theme=omni" alt=""/>
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yakubova6&theme=omni" alt=""/>
-     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yakubova6&theme=omni" alt=""/>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yakubova6&theme=omni" alt=""/>
 </div>
