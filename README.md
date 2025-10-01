@@ -42,6 +42,6 @@ ________________________________________________________________________________
 ### Statistics
 <div id="stat" align="center">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yakubova6&theme=omni" alt=""/>
-    <img src="![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yakubova6&theme=omni)" alt=""/>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yakubova6&theme=omni" alt=""/>
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yakubova6&theme=omni" alt=""/>
 </div>
