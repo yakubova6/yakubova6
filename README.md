@@ -41,8 +41,14 @@ ________________________________________________________________________________
 [![Sublime Text](https://img.shields.io/badge/Sublime%20Text-%23575757.svg?logo=sublime-text&logoColor=important)](#)
 
 ### Statistics
-<div id="stat">
-    <img src="https://streak-stats.demolab.com?user=yakubova6&theme=javascript-dark" alt=""/>
-    <!-- <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yakubova6&theme=great_gatsby" alt=""/>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yakubova6&theme=great_gatsby" alt=""/> -->
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yakubova6&layout=compact&theme=dark&title_color=f7df1e&border_color=f7df1e&text_color=8b949e&bg_color=151515&hide_border=false" alt="Top Languages" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=yakubova6&show_icons=true&theme=dark&title_color=f7df1e&border_color=f7df1e&text_color=8b949e&bg_color=151515&icon_color=f7df1e&hide_border=false" alt="GitHub Stats" height="165"/>
+
+<br>
+<br>
+
+<img src="https://streak-stats.demolab.com?user=yakubova6&theme=dark&border_radius=8&border=F7DF1E&ring=F7DF1E&fire=F7DF1E&currStreakLabel=F7DF1E&sideLabels=F7DF1E&dates=8B949E&background=151515" alt="GitHub Streak" width="400" height="165"/>
 </div>
+
