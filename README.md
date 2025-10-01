@@ -1,5 +1,6 @@
 # Sanie Yakubova
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Frontend+Developer;Software+engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Frontend+Developer;Software+Engineer)](https://git.io/typing-svg)
+
 ### About me
 Hi, I’m Sanie.\
 I’m interested in web development and software engineering.\
