@@ -43,12 +43,12 @@ ________________________________________________________________________________
 ### Statistics
 
 <div align="center">
+<img src="https://streak-stats.demolab.com?user=yakubova6&theme=dark&border_radius=8&border=F7DF1E&ring=F7DF1E&fire=F7DF1E&currStreakLabel=F7DF1E&sideLabels=F7DF1E&dates=8B949E&background=151515" alt="GitHub Streak" width="400" height="165"/>
+
+<br>
+<br>
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yakubova6&layout=compact&theme=dark&title_color=f7df1e&border_color=f7df1e&text_color=8b949e&bg_color=151515&hide_border=false" alt="Top Languages" height="165"/>
 <img src="https://github-readme-stats.vercel.app/api?username=yakubova6&show_icons=true&theme=dark&title_color=f7df1e&border_color=f7df1e&text_color=8b949e&bg_color=151515&icon_color=f7df1e&hide_border=false" alt="GitHub Stats" height="165"/>
-
-<br>
-<br>
-
-<img src="https://streak-stats.demolab.com?user=yakubova6&theme=dark&border_radius=8&border=F7DF1E&ring=F7DF1E&fire=F7DF1E&currStreakLabel=F7DF1E&sideLabels=F7DF1E&dates=8B949E&background=151515" alt="GitHub Streak" width="400" height="165"/>
 </div>
 
