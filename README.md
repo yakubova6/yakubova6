@@ -1,5 +1,5 @@
 # Sanie Yakubova
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF69B4%09&width=435&lines=Frontend+Developer;Software+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=f7df1e&width=435&lines=Frontend+Developer;Software+Engineer)](https://git.io/typing-svg)
 
 ### About me
 Hi, I’m Sanie.\
@@ -41,8 +41,8 @@ ________________________________________________________________________________
 [![Sublime Text](https://img.shields.io/badge/Sublime%20Text-%23575757.svg?logo=sublime-text&logoColor=important)](#)
 
 ### Statistics
-<div id="stat" align="center">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yakubova6&theme=omni" alt=""/>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yakubova6&theme=omni" alt=""/>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yakubova6&theme=omni" alt=""/>
+<div id="stat">
+    <img src="https://streak-stats.demolab.com?user=yakubova6&theme=javascript-dark" alt=""/>
+    <!-- <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yakubova6&theme=great_gatsby" alt=""/>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yakubova6&theme=great_gatsby" alt=""/> -->
 </div>
