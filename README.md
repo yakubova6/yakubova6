@@ -45,7 +45,7 @@ ________________________________________________________________________________
 ### Statistics
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yakubova6&layout=compact&theme=dark&title_color=f7df1e&border_color=f7df1e&text_color=8b949e&bg_color=151515&hide_border=false" alt="Top Languages" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yakubova6&layout=compact&theme=dark&title_color=f7df1e&border_color=f7df1e&text_color=8b949e&bg_color=151515&hide_border=false&hide=Jupyter%20Notebook" alt="Top Languages" height="165"/>
 <img src="https://github-readme-stats.vercel.app/api?username=yakubova6&show_icons=true&theme=dark&title_color=f7df1e&border_color=f7df1e&text_color=8b949e&bg_color=151515&icon_color=f7df1e&hide_border=false" alt="GitHub Stats" height="165"/>
 </div>
 
