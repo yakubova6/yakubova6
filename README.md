@@ -4,7 +4,7 @@
 ### About me
 Hi, I’m Sanie.\
 I’m interested in web development and software engineering.\
-I’m currently learning JavaScript.\
+I’m currently learning JavaScript and React.\
 I also practice English and speak it fluently.\
 Reach me by email - sanie07@mail.ru
 ________________________________________________________________________________________________
