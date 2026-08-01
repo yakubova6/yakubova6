@@ -6,7 +6,7 @@ Hi, I’m Sanie.\
 I’m interested in web development and software engineering.\
 I’m currently learning JavaScript and React.\
 I also practice English and speak it fluently.\
-Reach me by email - sanie07@mail.ru
+Reach me by email - bitakov73@gmail.com
 ________________________________________________________________________________________________
 ### Contacts
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/sanie-iakubova/)
